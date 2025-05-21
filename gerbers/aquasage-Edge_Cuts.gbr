@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.6*%
+%TF.CreationDate,2025-05-20T21:00:01-04:00*%
+%TF.ProjectId,aquasage,61717561-7361-4676-952e-6b696361645f,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.6) date 2025-05-20 21:00:01*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X52984400Y-24892000D02*
+X148513800Y-24892000D01*
+X148513800Y-68808600D01*
+X52984400Y-68808600D01*
+X52984400Y-24892000D01*
+M02*
